@@ -1,0 +1,66 @@
+
+body{
+background-color: whitesmoke;
+
+}
+
+
+
+h1{
+    border: 30px;
+    margin-left: 20%;
+    font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 70px;
+}
+
+
+.caract{
+   margin-left:20% ;     
+}
+
+
+.informacion{
+  
+
+    margin-left: 15%;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 20px;
+}
+    
+
+
+.imagenes{
+    margin-left: 30%;
+    
+}
+
+
+.comprar{
+    margin-left: 50%;
+    width: 100px;
+    height: 100px;
+
+}
+
+button{
+    width:200px ;
+    height:100px     ;
+    margin-left: 45%;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px;
+}
+
+button:hover{
+    background-color: #c6c6c6;
+}
+
+.Reseñas{
+    margin-left: 200px;
+}
